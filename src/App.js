@@ -31,7 +31,7 @@ class App extends Component {
 
   getData(){
     $.ajax({
-      url:'/data.json',
+      url: `${process.env.PUBLIC_URL}/data.json`,
       dataType:'json',
       cache: false,
       success: function(data){

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class About extends Component {
   render() {
     if(this.props.data){
-      var profilepic= "images/"+this.props.data.image;
+      var profilepic= `${process.env.PUBLIC_URL}/images/${this.props.data.image}`;
       var biointro = this.props.data.biointro;
       var biodesc = this.props.data.biodesc;
     }
