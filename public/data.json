@@ -1,0 +1,103 @@
+{
+  "video":"9QNUXxuwt1Y",
+  "main": {
+    "company":"DKstyle",
+    "name":"Manuel Duque",
+    "occupation":"un amante del ciclismo",
+    "description":"Disfruto del ciclismo en todas sus versiones. Me encanta tener siempre a punto las máquinas, bien vestidas y protegidas",
+    "image":"imageprofile.jpg",
+    "biointro":"De profesión ligada a las telecomunicaciones y a la electricidad, movido por mi espíritu inquieto, siempre he tenido gran interés por la mecánica. Comencé a competir en enduro allá por el año 2000, para después dedicarle más tiempo al ciclismo.",
+    "biodesc":" Disfruto desmontando y reparando mis máquinas, quitándoles hasta el último de los tan molestos ruiditos. Hace unos años di un paso más y comencé a pintar mis bicis y a diseñar mis propios vinilos de protección.",
+    "address":{
+      "city":"Valverde del Camino"
+    },
+    "website": "http://www.dkstyle.es",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/manuel.d.oliva",
+        "className":"fa fa-facebook",
+        "prefix":"fab",
+        "icon":"facebook-f"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/duque_313/",
+        "className":"fa fa-instagram",
+        "prefix":"fab",
+        "icon":"instagram"
+      },
+      {
+        "name":"email",
+        "url":"mailto:info@dkstyle.com",
+        "className":"fa fa-envelope-o",
+        "prefix":"far",
+        "icon":"envelope"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Couler",
+        "category":"Trabajo terminado de una COLUER en plata holográfico y burdeos",
+        "image":"trabajo1.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10223176183219989"
+      },
+      {
+        "title":"Scott",
+        "category":"Cuadro y horquilla en rojo, negro y plata holográfico",
+        "image":"trabajo2.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10223027300658018"
+      },
+      {
+        "title":"Cannondale",
+        "category":"Cannondale en blanco nacarado y azul metalizado, sencilla y elegante a la vez",
+        "image":"trabajo3.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222896974399943"
+      },
+      {
+        "title":"BH",
+        "category":"Trabajo terminado de una BH en color camaleón",
+        "image":"trabajo4.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222873206925771"
+      },
+      {
+        "title":"Mondraker",
+        "category":"Mondraker f-podium en plata holografico combinado negro brillo y negro mate",
+        "image":"trabajo5.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222808053576978"
+      },
+      {
+        "title":"Megamo Factory",
+        "category":"Personalización de mi #megamofactory en amarillo y letras en plata holográfico",
+        "image":"trabajo6.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222772386685328"
+      },
+      {
+        "title":"Casco Red Bull",
+        "category":"Personalización de casco Red Bull",
+        "image":"trabajo7.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222733858682152"
+      },
+      {
+        "title":"Orbea Alma",
+        "category":"Orbea Alma en rojo y negro difuminados, y letras en blanco",
+        "image":"trabajo8.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222187304258633"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Manuel Duque es el vivo ejemplo de cómo hay que cuidar y mantener las bicis, siempre listas para la batalla! Cambia de color según la temporada y estrena bici cada año!",
+        "user":"Anónimo 1"
+      },
+      {
+        "text":"Probé uno de sus vinilos de protección y no he vuelto a ver esos dolorosos arañazos en el cuadro. ¡Lo llevo desde hace un año y está como nuevo!",
+        "user":"Anónimo 2"
+      }
+    ]
+  }
+}
