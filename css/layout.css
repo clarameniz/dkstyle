@@ -20,6 +20,10 @@ header {
   overflow: hidden;
 }
 
+.Player__videoContainer___2TVqS {
+  opacity: 0.3;
+}
+
 /* vertically center banner section */
 header:before {
   content: '';
