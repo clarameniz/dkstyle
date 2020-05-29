@@ -1,5 +1,5 @@
 {
-  "video":"9QNUXxuwt1Y",
+  "video":"lCCVb5HjuDA",
   "main": {
     "company":"DKstyle",
     "name":"Soy Manuel Duque",
@@ -33,6 +33,13 @@
         "className":"fa fa-envelope-o",
         "prefix":"far",
         "icon":"envelope"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/watch?v=lCCVb5HjuDA",
+        "className":"fa fa-youtube",
+        "prefix":"fab",
+        "icon":"youtube"
       }
     ]
   },
@@ -75,16 +82,16 @@
         "url":"https://www.facebook.com/manuel.d.oliva/posts/10222772386685328"
       },
       {
-        "title":"Casco Red Bull",
-        "category":"Personalización de casco Red Bull",
-        "image":"trabajo7.jpg",
-        "url":"https://www.facebook.com/manuel.d.oliva/posts/10222733858682152"
-      },
-      {
         "title":"Orbea Alma",
         "category":"Orbea Alma en rojo y negro difuminados, y letras en blanco",
         "image":"trabajo8.jpg",
         "url":"https://www.facebook.com/manuel.d.oliva/posts/10222187304258633"
+      },
+      {
+        "title":"Specialized",
+        "category":"Specialized multicolor",
+        "image":"trabajo9.jpg",
+        "url":"https://www.facebook.com/manuel.d.oliva/posts/10223232687712566"
       }
     ]
   },
@@ -92,11 +99,11 @@
     "testimonials":[
       {
         "text":"Manuel Duque es el vivo ejemplo de cómo hay que cuidar y mantener las bicis, siempre listas para la batalla! Cambia de color según la temporada y estrena bici cada año!",
-        "user":"Anónimo 1"
+        "user":"Martina Nieto"
       },
       {
         "text":"Probé uno de sus vinilos de protección y no he vuelto a ver esos dolorosos arañazos en el cuadro. ¡Lo llevo desde hace un año y está como nuevo!",
-        "user":"Anónimo 2"
+        "user":"Alexandru Pereira"
       }
     ]
   }

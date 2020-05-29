@@ -3,12 +3,13 @@ import cs from 'classnames';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-import { faFacebookF, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookF, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 library.add(
   faEnvelope,
   faFacebookF,
-  faInstagram
+  faInstagram,
+  faYoutube
 );
 
 class Header extends Component {

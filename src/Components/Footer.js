@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 import { faFacebookF, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faHeart } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
   faEnvelope,
@@ -30,6 +31,12 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="social-links">
               {networks}
+            </ul>
+            <ul className="copyright">
+              <li>Coded with <FontAwesomeIcon icon={faHeart} /> by
+                <a title="clarameniz github" href="https://github.com/clarameniz"
+                  target="_blank" rel="noopener noreferrer"> Clara Meniz</a>
+              </li>
             </ul>
             <ul className="copyright">
               <li>&copy; Copyright 2020 DKstyle</li>
