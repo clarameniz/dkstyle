@@ -2,9 +2,9 @@
   "video":"ApD8HSd4Yic",
   "main": {
     "company":"DKstyle",
-    "name":"Soy Manuel Duque",
-    "occupation":"un amante del ciclismo",
-    "description":"Disfruto del ciclismo en todas sus modalidades. Me encanta tener siempre a punto las máquinas, bien vestidas y protegidas",
+    "name":"Soy <span>Manuel Duque</span>",
+    "occupation":"un <span>amante del ciclismo</span>",
+    "description":"Disfruto del ciclismo en todas sus <span>modalidades</span>. Me encanta tener <span>siempre a punto</span> las máquinas, bien <span>vestidas y protegidas</span>",
     "image":"imageprofile.jpg",
     "biointro":"De profesión ligada a las telecomunicaciones y a la electricidad, movido por mi espíritu inquieto, siempre he tenido gran interés por la mecánica. Comencé a competir en enduro allá por el año 2000, para después dedicarle más tiempo al ciclismo.",
     "biodesc":" Disfruto desmontando y reparando mis máquinas, quitándoles hasta el último de los tan molestos ruiditos. Hace unos años di un paso más y comencé a personalizar mis bicis y a diseñar mis propios vinilos de protección.",
@@ -29,7 +29,7 @@
       },
       {
         "name":"email",
-        "url":"mailto:dkstylevalverde@gmail.com",
+        "url":"mailto:dkstykevalverde@gmail.com",
         "className":"fa fa-envelope-o",
         "prefix":"far",
         "icon":"envelope"
