@@ -1,6 +1,6 @@
 {
   "name": "dkstyle",
-  "homepage":"https://dkstyle.es", 
+  "homepage": "https://dkstyle.es",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +17,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
+    "react-html-parser": "^2.0.2",
     "react-scripts": "3.4.1",
     "react-waypoint": "^9.0.2",
     "react-youtube-background": "^1.0.0"

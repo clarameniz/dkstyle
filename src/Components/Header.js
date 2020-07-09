@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 import { faFacebookF, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import ReactHtmlParser from 'react-html-parser';
 
 library.add(
   faEnvelope,
@@ -54,7 +55,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">{company}</h1>
-            <h3>{name}, <span>{occupation}</span> {city}. {description}.</h3>
+            <h3>{ReactHtmlParser(name)}, {ReactHtmlParser(occupation)} {city}. {ReactHtmlParser(description)}.</h3>
             <hr />
             <ul className="social">
               {networks}

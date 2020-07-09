@@ -69,7 +69,7 @@ class App extends Component {
         <Waypoint key={'about'} bottomOffset='100px' onEnter={() =>  this.handleSection('about')} />
         <About data={this.state.data.main} />
 
-        <Waypoint key={'portfolio'} bottomOffset='930px' onEnter={() => this.handleSection('portfolio')} />
+        <Waypoint key={'portfolio'} bottomOffset='1250px' onEnter={() => this.handleSection('portfolio')} />
         <Portfolio data={this.state.data.portfolio} />
 
         <Waypoint key={'testimonials'} bottomOffset='560px' onEnter={() => this.handleSection('testimonials')} />
