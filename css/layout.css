@@ -495,7 +495,24 @@ font-size: 20px;
 }
 
 .slick-dots {
+  padding: 15px !important;
   bottom: auto !important;
+}
+
+.slick-arrow {
+  height: 25% !important;
+  width: 10% !important;
+  background-color: #635e5e8f !important;
+}
+
+section#videos {
+  padding-bottom: 90px !important;
+}
+
+/* Remove scroll-y body margins */
+.App {
+  overflow-x: hidden;
+  margin-right: -24px;
 }
 
 /* ------------------------------------------------------------------ */
