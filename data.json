@@ -2,34 +2,35 @@
   "video":"ApD8HSd4Yic",
   "main": {
     "company":"DKstyle",
-    "name":"Soy <span>Manuel Duque</span>",
-    "occupation":"un <span>amante del ciclismo</span>",
-    "description":"Disfruto del ciclismo en todas sus <span>modalidades</span>. Me encanta tener <span>siempre a punto</span> las máquinas, bien <span>vestidas y protegidas</span>",
+    "name":"Somos <span>DKstyle</span>",
+    "occupation":" amantes del <span>ciclismo</span>",
+    "description":"Nuestro <span>objetivo</span> es que tengas <span>siempre a punto</span> tu <span>bicicleta</span>, con <span>diseños y colores a la última</span> y bien <span>protegidas</span>",
     "image":"imageprofile.jpg",
-    "biointro":"De profesión ligada a las telecomunicaciones y a la electricidad, movido por mi espíritu inquieto, siempre he tenido gran interés por la mecánica. Comencé a competir en enduro allá por el año 2000, para después dedicarle más tiempo al ciclismo.",
-    "biodesc":" Disfruto desmontando y reparando mis máquinas, quitándoles hasta el último de los tan molestos ruiditos. Hace unos años di un paso más y comencé a personalizar mis bicis y a diseñar mis propios vinilos de protección.",
+    "biointro":"Somos un equipo de trabajo que, ante los últimos cambios del mercado cada vez más exigente con nuestros bolsillos, nos hemos preocupado por diseñarte y ofrecerte soluciones sencillas y al alcance de todos, para que tu bicicleta te dure intacta todo el tiempo que desees.",
+    "biodesc1":"Transformamos tu bicicleta. Podrás ir de estreno cuantas veces imagines. Realizamos todo tipo de diseños con los colores más novedosos del mercado.",
+    "biodesc":"También hemos diseñado una línea de productos con la que ya sabes que tu bici no puede estar mejor protegida. Confiamos plenamente en la calidad de los materiales de nuestros productos, usados durante años por profesionales del mundo del enduro y del motocross.",
     "address":{
       "city":"de Valverde del Camino"
     },
     "website": "http://www.dkstyle.es",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/manuel.d.oliva",
-        "className":"fa fa-facebook",
+        "name":"whatsapp",
+        "url":"https://wa.me/34661425193/?text=Quiero%20informaci%C3%B3n%20adicional%20del%20producto",
+        "className":"fa fa-whatsapp",
         "prefix":"fab",
-        "icon":"facebook-f"
+        "icon":"whatsapp"
       },
       {
         "name":"instagram",
-        "url":"https://www.instagram.com/duque_313/",
+        "url":"https://www.instagram.com/dkstyle_carbonoypintura/",
         "className":"fa fa-instagram",
         "prefix":"fab",
         "icon":"instagram"
       },
       {
         "name":"email",
-        "url":"mailto:dkstykevalverde@gmail.com",
+        "url":"mailto:info@dkstyleprotectores.es",
         "className":"fa fa-envelope-o",
         "prefix":"far",
         "icon":"envelope"
@@ -219,65 +220,12 @@
         "image":"trabajo26.jpg",
         "url":"https://www.facebook.com/manuel.d.oliva/posts/10223320459346802"
       }
-    ],
-    "videos": [
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10224160226340452"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223998158968869/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223938539558421/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223925767319123"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223807696647430/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223700082317139/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223624396625044/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223513170204453/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223413386949934/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223373544473897/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10223320458826789/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10222940337844002/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10222896973119911/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10222873198965572/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10222808044496751/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10221368753835384/"
-      },
-      {
-        "url":"https://www.facebook.com/manuel.d.oliva/videos/10221231043272706/"
-      }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Manuel Duque es el vivo ejemplo de cómo hay que cuidar y mantener las bicis, siempre listas para la batalla! Cambia de color según la temporada y estrena bici cada año!",
+        "text":"DKstyle es el vivo ejemplo de cómo hay que cuidar y mantener las bicis, siempre listas para la batalla! Cambia de color según la temporada y estrena bici cada año!",
         "user":"Martina Nieto"
       },
       {
