@@ -6,6 +6,7 @@ class About extends Component {
       var profilepic= `${process.env.PUBLIC_URL}/images/${this.props.data.image}`;
       var biointro = this.props.data.biointro;
       var biodesc = this.props.data.biodesc;
+      var biodesc1 = this.props.data.biodesc1;
     }
 
     return (
@@ -15,8 +16,9 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Manuel Duque" />
           </div>
           <div className="nine columns main-col">
-            <h2>Sobre mí</h2>
+            <h2>Quiénes somos</h2>
             <p>{biointro}</p>
+            <p>{biodesc1}</p>
             <p>{biodesc}</p>
           </div>
         </div>

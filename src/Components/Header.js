@@ -3,12 +3,12 @@ import cs from 'classnames';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-import { faFacebookF, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram, faYoutube, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import ReactHtmlParser from 'react-html-parser';
 
 library.add(
   faEnvelope,
-  faFacebookF,
+  faWhatsapp,
   faInstagram,
   faYoutube
 );
@@ -41,7 +41,7 @@ class Header extends Component {
               <a className="smoothscroll" href="#home">Home</a>
             </li>
             <li className={cs({current: this.props.section === 'about'})}>
-              <a className="smoothscroll" href="#about">Sobre mi</a>
+              <a className="smoothscroll" href="#about">Quiénes somos</a>
             </li>
             <li className={cs({current: this.props.section === 'portfolio'})}>
               <a className="smoothscroll" href="#portfolio">Trabajos</a>

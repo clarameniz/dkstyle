@@ -188,9 +188,9 @@ color: #7A7A7A;
 }
 #about .profile-pic {
 position: relative;
-width: 180px !important;
-height: 180px !important;
-border-radius: 100%;
+width: 200px !important;
+height: 200px !important;
+border-radius: 20%;
 margin-top: 30px;
 }
 #about .contact-details { width: 41.66667%; }
